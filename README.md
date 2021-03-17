@@ -21,3 +21,5 @@ The results of our analysis show that there is a somewhat significant bias towar
 An analysis of the distribution of Vine and non-Vine reviews from 0 to 5 stars, like the following chart, would be helpful.  Reviews that are left by non-Vine members are because they had an opinion on a product and wanted to honestly express that opinion to other potential buyers without compensation.  However, reviews by Vine members may be done simply to get it done because they are receiving payment for it.  Because of this, Vine members may put 5 stars simply because it is the simplest way to get the review done.  I would be curious to see if Vine reviews have a general trend towards higher reviews versus non-Vine reviews, or if 5-stars are the only anomaly due to Vine reviewers doing the minimum to get paid.
 
 <img src="vine_vs_nonvine_ratings.PNG" width="500" height="300"/>
+
+[Link to Tableau chart source](https://public.tableau.com/profile/edward5570#!/vizhome/StarRatingsbyVinevsNon-VineReviewers/PercentageofRatingbyVinevsNon-VineReviewers)
